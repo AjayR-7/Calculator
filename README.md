@@ -1,3 +1,3 @@
-# Calcultor
+# Calculator
 
 A simple calculator

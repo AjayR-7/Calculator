@@ -5,7 +5,7 @@ Table of Contents
     Sample Data
     SQL Queries
 
-******************Database Structure*********************
+Database Structure
 
 The "student" database consists of the following tables:
 
@@ -16,7 +16,7 @@ The "student" database consists of the following tables:
     student_grades: Stores student grades for courses.
     user_accounts: Contains user account information.
 
-**********************Sample Data*****************************
+Sample Data
 
 Sample data has been provided for the following tables:
 
@@ -27,7 +27,7 @@ Sample data has been provided for the following tables:
     student_grades: Grades for courses.
     user_accounts: User accounts and passwords.
 
-*************************SQL Queries********************** 
+SQL Queries
 
 The SQL script includes various sample queries for selecting, inserting, updating, and deleting data from the tables. Some of the example queries include:
 
